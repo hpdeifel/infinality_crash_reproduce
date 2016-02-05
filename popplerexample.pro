@@ -6,6 +6,7 @@ TEMPLATE = app
 TARGET = test
 DEPENDPATH += .
 INCLUDEPATH += .
+CONFIG += debug
 
 POPPLER = poppler-qt4
 
